@@ -19,9 +19,9 @@ SQl.
         2. Archivos de Python
         3. Archivos de SQL
 ## Datos personales
-Nombre: ***_Benedicto Pop Cucul_*** <br> Clave:***_16_*** <br>
+Nombre: ***_Benedicto Pop Cucul_*** <br> Clave: ***_16_*** <br>
 Grado: ***_Quinto Bachillerato en Ciencias y Letras En Orientacion_***<br>
-Especialidad: <b> <a> COMPUTACIÓN </a> </b>
+Especialidad: <b> <u>***_ COMPUTACIÓN _***<u> </b>
 
 #### FRASE
 “Mientras más te adentras a la selva, más árboles te rodean. Lo mismo se podría decir
