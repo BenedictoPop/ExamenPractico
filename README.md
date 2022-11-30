@@ -13,7 +13,7 @@ y por eso es muy importante de que los archivo es totalmente diferente a lo de P
 SQl.
 
 
-## Tecnologia usadas 
+## Tecnología usadas 
         1. GitHubs
         2. Arcchivos de Python
 
