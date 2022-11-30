@@ -19,7 +19,7 @@ SQl.
 
 ## Datos personales
 Nombre:Benedicto Pop Cucul Clave:16 <br>
-Grado: Quinto Bachillerato en Ciencias y Letras
+Grado: Quinto Bachillerato en Ciencias y Letras <br>
 Especialidad: <b>COMPUTACION</b>
 
 #### FRASE
