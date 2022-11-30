@@ -1,12 +1,13 @@
 # ExamenPractico <br>
 
 ## Descripcion
-Este documento consiste en subir archivos en un repositorio el cual <br>
-facilita un mayor agilidad. <br>
+Este documento consiste en ***_subir archivos en un repositorio_*** el cual <br>
+***_facilita un mayor agilidad_***. <br>
 <br>
 Esto plataforma es algo muy util para todo estudiante en cambio todos los <br>
-archivos contenidos es de python dentro de ese es el examen del primer bimestre de <br>
+archivos contenidos es de python dentro de ese es el examen del primer bimestre de
 Quinto Bachillerato en Ciencias y Letras con Orientacion en COMPUTACION.
+<br>
 <br>
 Otro documento que utilizé es de SQL en español ***_Lenguaje de Consulta Estructurada_***
 y por eso es muy importante de que los archivo es totalmente diferente a lo de Python y la
@@ -15,8 +16,8 @@ SQl.
 
 ## Tecnología usadas 
         1. GitHubs
-        2. Arcchivos de Python
-
+        2. Archivos de Python
+        3. Archivos de SQL
 ## Datos personales
 Nombre:Benedicto Pop Cucul Clave:16 <br>
 Grado: Quinto Bachillerato en Ciencias y Letras <br>
