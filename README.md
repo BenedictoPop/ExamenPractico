@@ -20,8 +20,8 @@ SQl.
         3. Archivos de SQL
 ## Datos personales
 Nombre:Benedicto Pop Cucul Clave:16 <br>
-Grado: Quinto Bachillerato en Ciencias y Letras <br>
-Especialidad: <b>COMPUTACION</b>
+Grado: Quinto Bachillerato en Ciencias y Letras En Orientacion<br>
+Especialidad: <b>COMPUTACIÓN</b>
 
 #### FRASE
 “Mientras más te adentras a la selva, más árboles te rodean. Lo mismo se podría decir
