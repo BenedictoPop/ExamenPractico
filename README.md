@@ -10,7 +10,7 @@ Quinto Bachillerato en Ciencias y Letras con Orientacion en COMPUTACION.
 <br>
 <br>
 Otro documento que utilizé es de SQL en español ***_Lenguaje de Consulta Estructurada_***
-y por eso es muy importante de que los archivo es totalmente diferente a lo de Python y la
+y por eso es muy importante de que los archivo es totalmente diferente a lo de Python y la de
 SQl.
 
 
