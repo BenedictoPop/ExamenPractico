@@ -21,7 +21,7 @@ SQl.
 ## Datos personales
 Nombre: ***_Benedicto Pop Cucul_*** <br> Clave: ***_16_*** <br>
 Grado: ***_Quinto Bachillerato en Ciencias y Letras En Orientacion_***<br>
-Especialidad: <b> ***_ COMPUTACIÓN _*** </b>
+Especialidad:  ***_ COMPUTACIÓN _*** 
 
 #### FRASE
 “Mientras más te adentras a la selva, más árboles te rodean. Lo mismo se podría decir
